@@ -47,8 +47,8 @@ Users should be able to:
 
 ### What I learned
 
-Used npm install marked
-Used npm install react-markdown
+- Used npm install marked
+- Used npm install react-markdown
 
 ### Continued development
 
